@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevMuriloSantos&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevMuriloSantos&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  /> -->
 
   <img src="https://camo.githubusercontent.com/d289d3e54ae86fac6ef8cd2f5ec6ed24aacf4cad8b9d2fd1c7a1463f8bf75497/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d4465764d7572696c6f53616e746f732662675f636f6c6f723d626c61636b26617265613d7472756526686964655f626f726465723d7472756526686964655f7469746c653d66616c7365267468656d653d6769746875622d6461726b26637573746f6d5f7469746c653d47722543332541316669636f2532306465253230636f6e747269627569254333254137254333254235657325323064652532304d7572696c6f" alt="contribution graph"  />
   <!-- <img src="https://streak-stats.demolab.com?user=DevMuriloSantos&theme=dark&background=44%2C313131%2C000000&border=6D738B" height="209" alt="activity-graph graph"  /> -->
